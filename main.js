@@ -1,9 +1,9 @@
 const content = {
     logos: {
-        navLogo: "RSET IEDC- Home/imgi_1_rset_ innovation.png",
-        iedcColor: "RSET IEDC- Home/imgi_10_iedc.png",
-        iedcWhite: "RSET IEDC- Home/imgi_8_RSET IEDC White.png",
-        rset: "RSET IEDC- Home/imgi_9_rset.png"
+        navLogo: "/RSET IEDC- Home/imgi_1_rset_ innovation.png",
+        iedcColor: "/RSET IEDC- Home/imgi_10_iedc.png",
+        iedcWhite: "/RSET IEDC- Home/imgi_8_RSET IEDC White.png",
+        rset: "/RSET IEDC- Home/imgi_9_rset.png"
     },
     hero: {
         headline: ["THINK.", "INNOVATE.", "INSPIRE."],
@@ -15,13 +15,13 @@ const content = {
             { label: "IPL Winners", value: "2021" },
             { label: "IEDC Summit Host", value: "2023" }
         ],
-        video: "269048353-8262d5a4-bf6a-4325-85ac-351e3f4808e9.mp4"
+        video: "/269048353-8262d5a4-bf6a-4325-85ac-351e3f4808e9.mp4"
     },
     about: {
         title: "Building Young Student Entrepreneurs",
         vision: "To be a self-sustained TBI catering to the needs of young student entrepreneurs with innovative ideas of social relevance and thereby introducing a culture of entrepreneurship inside campus which will strengthen our education system and thereby promoting the national economical and social growth.",
         mission: "To develop an ecosystem with required infrastructure that can enable students and faculty to innovate and prototype their potential ideas with industrial standards and support from Government, industry and reputed academic institutions around the world and help them to realize their potentials.",
-        headerBg: "RSET IEDC- Home/imgi_2_about-1.jpeg",
+        headerBg: "/RSET IEDC- Home/imgi_2_about-1.jpeg",
         objectives: [
             { title: "Foster Innovation", description: "Design and develop innovative products of social relevance.", icon: "💡" },
             { title: "Encourage Entrepreneurship", description: "Create entrepreneurial culture among faculty members, students and Alumni.", icon: "🚀" },
@@ -32,102 +32,102 @@ const content = {
         ]
     },
     gallery: [
-        "RSET IEDC- Home/imgi_12_carousel-1.jpg",
-        "RSET IEDC- Home/imgi_3_gallery1.jpg",
-        "RSET IEDC- Home/imgi_7_gallery2.jpg",
-        "RSET IEDC- Home/imgi_4_gallery3.jpg",
-        "RSET IEDC- Home/imgi_5_gallery4.jpg",
-        "RSET IEDC- Home/imgi_6_gallery5.jpg"
+        "/RSET IEDC- Home/imgi_12_carousel-1.jpg",
+        "/RSET IEDC- Home/imgi_3_gallery1.jpg",
+        "/RSET IEDC- Home/imgi_7_gallery2.jpg",
+        "/RSET IEDC- Home/imgi_4_gallery3.jpg",
+        "/RSET IEDC- Home/imgi_5_gallery4.jpg",
+        "/RSET IEDC- Home/imgi_6_gallery5.jpg"
     ],
     execom: {
         title: "Executive Committee '25 - '26",
-        headerBg: "RSET IEDC- Team/imgi_35_team-header.jpg",
+        headerBg: "/RSET IEDC- Team/imgi_35_team-header.jpg",
         faculty: [
-            { name: "Mr. Nitheesh Kurian", role: "Nodal Officer", image: "RSET IEDC- Team/imgi_2_Nitheesh.jpg" },
-            { name: "Ms. Anu Maria Joykutty", role: "Assistant Nodal Officer", image: "RSET IEDC- Team/imgi_3_Anu.jpg" }
+            { name: "Mr. Nitheesh Kurian", role: "Nodal Officer", image: "/RSET IEDC- Team/imgi_2_Nitheesh.jpg" },
+            { name: "Ms. Anu Maria Joykutty", role: "Assistant Nodal Officer", image: "/RSET IEDC- Team/imgi_3_Anu.jpg" }
         ],
         studentLeads: [
-            { name: "Sarath Menon Girish", role: "Student Lead - IEDC", image: "RSET IEDC- Team/imgi_4_sarath.jpg" },
-            { name: "Anwyl Jolly", role: "Student Lead - IIC", image: "RSET IEDC- Team/imgi_5_anwyl.jpg" },
-            { name: "Fathima Moonam Kandathil", role: "Student Co-Lead", image: "RSET IEDC- Team/imgi_6_fathima.jpg" }
+            { name: "Sarath Menon Girish", role: "Student Lead - IEDC", image: "/RSET IEDC- Team/imgi_4_sarath.jpg" },
+            { name: "Anwyl Jolly", role: "Student Lead - IIC", image: "/RSET IEDC- Team/imgi_5_anwyl.jpg" },
+            { name: "Fathima Moonam Kandathil", role: "Student Co-Lead", image: "/RSET IEDC- Team/imgi_6_fathima.jpg" }
         ],
         departments: [
             {
                 name: "Quality & Operations",
                 members: [
-                    { name: "Shwetha O S", role: "Lead - IEDC", image: "RSET IEDC- Team/imgi_7_shwetha.jpg" },
-                    { name: "Suseela V K", role: "Lead - IIC", image: "RSET IEDC- Team/imgi_8_suseela.jpg" },
-                    { name: "Alan Johnson", role: "Co-Lead - IEDC", image: "RSET IEDC- Team/imgi_9_alanjohnson.jpg" },
-                    { name: "John Prince", role: "Co-Lead - IEDC", image: "RSET IEDC- Team/imgi_10_john.jpg" },
-                    { name: "Amy Reni Varghese", role: "Co-Lead - IIC", image: "RSET IEDC- Team/imgi_11_amy.jpg" }
+                    { name: "Shwetha O S", role: "Lead - IEDC", image: "/RSET IEDC- Team/imgi_7_shwetha.jpg" },
+                    { name: "Suseela V K", role: "Lead - IIC", image: "/RSET IEDC- Team/imgi_8_suseela.jpg" },
+                    { name: "Alan Johnson", role: "Co-Lead - IEDC", image: "/RSET IEDC- Team/imgi_9_alanjohnson.jpg" },
+                    { name: "John Prince", role: "Co-Lead - IEDC", image: "/RSET IEDC- Team/imgi_10_john.jpg" },
+                    { name: "Amy Reni Varghese", role: "Co-Lead - IIC", image: "/RSET IEDC- Team/imgi_11_amy.jpg" }
                 ]
             },
             {
                 name: "Incubation & Startup Affairs",
                 members: [
-                    { name: "Jeslyn Mariam Yohannan", role: "Lead", image: "RSET IEDC- Team/imgi_12_jeslyn.jpg" },
-                    { name: "Joshua Faithson Rony", role: "Co-Lead", image: "RSET IEDC- Team/imgi_13_joshua.jpg" }
+                    { name: "Jeslyn Mariam Yohannan", role: "Lead", image: "/RSET IEDC- Team/imgi_12_jeslyn.jpg" },
+                    { name: "Joshua Faithson Rony", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_13_joshua.jpg" }
                 ]
             },
             {
                 name: "Technology",
                 members: [
-                    { name: "Abraham Manoj Madamana", role: "Lead", image: "RSET IEDC- Team/imgi_14_abraham.jpg" },
-                    { name: "Sebastian Robin", role: "Co-Lead", image: "RSET IEDC- Team/imgi_15_sebastian.jpg" }
+                    { name: "Abraham Manoj Madamana", role: "Lead", image: "/RSET IEDC- Team/imgi_14_abraham.jpg" },
+                    { name: "Sebastian Robin", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_15_sebastian.jpg" }
                 ]
             },
             {
                 name: "PR & Media",
                 members: [
-                    { name: "Neha George", role: "Lead", image: "RSET IEDC- Team/imgi_16_neha.jpg" },
-                    { name: "Abdallah R H Khan", role: "Co-Lead", image: "RSET IEDC- Team/imgi_17_abdallah.jpg" },
-                    { name: "Alan Issac George", role: "Co-Lead", image: "RSET IEDC- Team/imgi_18_alanissac.jpg" }
+                    { name: "Neha George", role: "Lead", image: "/RSET IEDC- Team/imgi_16_neha.jpg" },
+                    { name: "Abdallah R H Khan", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_17_abdallah.jpg" },
+                    { name: "Alan Issac George", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_18_alanissac.jpg" }
                 ]
             },
             {
                 name: "PR & Branding",
                 members: [
-                    { name: "Amit Shibu", role: "Lead", image: "RSET IEDC- Team/imgi_19_amit.jpg" },
-                    { name: "Vyshnav A K", role: "Co-Lead", image: "RSET IEDC- Team/imgi_20_vyshnav.jpg" },
-                    { name: "Daya Mariya Winny", role: "Co-Lead", image: "RSET IEDC- Team/imgi_21_daya.jpg" }
+                    { name: "Amit Shibu", role: "Lead", image: "/RSET IEDC- Team/imgi_19_amit.jpg" },
+                    { name: "Vyshnav A K", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_20_vyshnav.jpg" },
+                    { name: "Daya Mariya Winny", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_21_daya.jpg" }
                 ]
             },
             {
                 name: "Community",
                 members: [
-                    { name: "P S Ashna Parveen", role: "Lead", image: "RSET IEDC- Team/imgi_22_psashna.jpg" },
-                    { name: "Nevin John George", role: "Co-Lead", image: "RSET IEDC- Team/imgi_23_nevin.jpg" }
+                    { name: "P S Ashna Parveen", role: "Lead", image: "/RSET IEDC- Team/imgi_22_psashna.jpg" },
+                    { name: "Nevin John George", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_23_nevin.jpg" }
                 ]
             },
             {
                 name: "Finance",
-                members: [{ name: "Reshma Jacob", role: "Lead", image: "RSET IEDC- Team/imgi_24_reshma.jpg" }]
+                members: [{ name: "Reshma Jacob", role: "Lead", image: "/RSET IEDC- Team/imgi_24_reshma.jpg" }]
             },
             {
                 name: "Documentation",
                 members: [
-                    { name: "Alen George Scaria", role: "Lead - IEDC", image: "RSET IEDC- Team/imgi_25_alen.jpg" },
-                    { name: "Diya P Varghese", role: "Lead - IIC", image: "RSET IEDC- Team/imgi_26_diya.jpg" },
-                    { name: "Giribala Arun", role: "Co-Lead - IEDC", image: "RSET IEDC- Team/imgi_27_giribala.jpg" },
-                    { name: "Rishi Krishna", role: "Co-Lead - IIC", image: "RSET IEDC- Team/imgi_28_rishi.jpg" }
+                    { name: "Alen George Scaria", role: "Lead - IEDC", image: "/RSET IEDC- Team/imgi_25_alen.jpg" },
+                    { name: "Diya P Varghese", role: "Lead - IIC", image: "/RSET IEDC- Team/imgi_26_diya.jpg" },
+                    { name: "Giribala Arun", role: "Co-Lead - IEDC", image: "/RSET IEDC- Team/imgi_27_giribala.jpg" },
+                    { name: "Rishi Krishna", role: "Co-Lead - IIC", image: "/RSET IEDC- Team/imgi_28_rishi.jpg" }
                 ]
             },
             {
                 name: "Women in Innovation",
                 members: [
-                    { name: "Nandha Biju", role: "Lead", image: "RSET IEDC- Team/imgi_29_nandha.jpg" },
-                    { name: "Sheba Reji", role: "Co-Lead", image: "RSET IEDC- Team/imgi_30_sheba.jpg" }
+                    { name: "Nandha Biju", role: "Lead", image: "/RSET IEDC- Team/imgi_29_nandha.jpg" },
+                    { name: "Sheba Reji", role: "Co-Lead", image: "/RSET IEDC- Team/imgi_30_sheba.jpg" }
                 ]
             }
         ]
     },
     reports: {
-        headerBg: "RSET IEDC- Home/imgi_12_carousel-1.jpg",
+        headerBg: "/RSET IEDC- Home/imgi_12_carousel-1.jpg",
         items: [
-            { year: "2024'25", title: "Annual Activity Report", url: "Annual Report 2024'25.pdf" },
-            { year: "2023'24", title: "Annual Activity Report", url: "Annual Report 2023'24.pdf" },
-            { year: "2022'23", title: "Annual Activity Report", url: "Annual Report 2022'23.pdf" },
-            { year: "2021'22", title: "Annual Activity Report", url: "Annual Report 2021'22.pdf" }
+            { year: "2024'25", title: "Annual Activity Report", url: "/Annual Report 2024'25.pdf" },
+            { year: "2023'24", title: "Annual Activity Report", url: "/Annual Report 2023'24.pdf" },
+            { year: "2022'23", title: "Annual Activity Report", url: "/Annual Report 2022'23.pdf" },
+            { year: "2021'22", title: "Annual Activity Report", url: "/Annual Report 2021'22.pdf" }
         ]
     },
     contact: {
@@ -146,11 +146,28 @@ const content = {
 };
 
 document.addEventListener('DOMContentLoaded', () => {
-    const path = window.location.pathname;
-    const fileName = path.split("/").pop().split("?")[0].split("#")[0];
-    const page = fileName || 'index.html';
+    let path = window.location.pathname;
+
+    // Normalize path: remove trailing slash, remove leading slash for matching
+    // If path is "/" or empty, it's home
+    if (path === '/' || path === '') {
+        path = 'index.html';
+    } else {
+        // Remove leading slash for easier matching
+        path = path.startsWith('/') ? path.substring(1) : path;
+        // Remove trailing slash
+        if (path.endsWith('/')) path = path.slice(0, -1);
+
+        // Handle extensionless paths (Netlify Pretty URLs)
+        if (!path.includes('.')) {
+            path = path + '.html';
+        }
+    }
+
+    const page = path;
 
     initGlobalUI();
+    initMobileMenu();
 
     const pageMap = {
         'index.html': renderHome,
@@ -161,7 +178,7 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     if (pageMap[page]) pageMap[page]();
-    else if (page === '') renderHome();
+    else renderHome(); // Fallback to home if unknown path
 
     if (page === 'index.html' || page === '') {
         animateSlogan();
@@ -342,4 +359,38 @@ function renderContact() {
             <a href="${s.url}" target="_blank" title="${s.name}"><i class="${s.icon}"></i></a>
         `).join('');
     }
+}
+
+function initMobileMenu() {
+    const btn = document.getElementById('mobile-toggle');
+    const menu = document.getElementById('mobile-menu');
+    const overlay = document.getElementById('mobile-overlay');
+
+    if (!btn || !menu || !overlay) return;
+
+    btn.addEventListener('click', () => {
+        menu.classList.toggle('active');
+        overlay.classList.toggle('active');
+        const icon = btn.querySelector('i');
+        if (menu.classList.contains('active')) {
+            icon.className = 'fas fa-times';
+        } else {
+            icon.className = 'fas fa-bars';
+        }
+    });
+
+    overlay.addEventListener('click', () => {
+        menu.classList.remove('active');
+        overlay.classList.remove('active');
+        btn.querySelector('i').className = 'fas fa-bars';
+    });
+
+    // Close on link click
+    menu.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+            menu.classList.remove('active');
+            overlay.classList.remove('active');
+            btn.querySelector('i').className = 'fas fa-bars';
+        });
+    });
 }
